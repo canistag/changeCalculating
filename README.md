@@ -11,6 +11,6 @@ This program uses Python's decimal and random modules. Concepts demonstrated are
 
 ## How to Run Locally
    ```bash
-   git clone https://github.com/tigosun-dev/changeCalculating.git
+   git clone https://github.com/canistag/changeCalculating.git
    cd changeCalculating
    python final_GM.py
